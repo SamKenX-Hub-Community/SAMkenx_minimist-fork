@@ -1,5 +1,5 @@
 {
-  "name": "minimist",
+  "name": "minimistjs/minimist",
   "version": "1.2.6",
   "description": "parse argument options",
   "main": "index.js",
@@ -27,9 +27,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/minimist.git"
+    "url": "git://github.com/minimistjs/minimist.git"
   },
-  "homepage": "https://github.com/substack/minimist",
+  "homepage": "https://github.com/minimistjs/minimist",
   "keywords": [
     "argv",
     "getopt",

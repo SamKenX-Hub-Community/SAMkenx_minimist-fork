@@ -5,6 +5,11 @@ parse argument options
 This module is the guts of optimist's argument parser without all the
 fanciful decoration.
 
+# Disclaimer
+
+This is a fork of minimist. Substack's minimist has disappeared from GitHub:
+[https://twitter.com/ManuEomm/status/1579426610121674752](https://twitter.com/ManuEomm/status/1579426610121674752)
+
 # example
 
 ``` js
