@@ -1,5 +1,5 @@
 {
-  "name": "minimistjs/minimist",
+  "name": "@minimistjs/minimist",
   "version": "1.2.6",
   "description": "parse argument options",
   "main": "index.js",
